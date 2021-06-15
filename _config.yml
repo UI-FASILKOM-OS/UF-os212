@@ -1,0 +1,21 @@
+title:       "Operating Systems 2021-2 (OS212)"
+version:     "0000---15-Jun-2021"
+copyright:   "2021-2021"
+description: >- 
+  This Is How Me Do It!
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+google_analytics: "UA-89852122-6"
+author:           "Cicak Bin Kadal"
+address:          "Pamulang"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://cbkadal.github.io/os212/"
+urlcontact:       "TBS"
+urlgithub:        "https://github.com/cbkadal/os212/"
+urlghpage:        "https://cbkadal.github.io/os212/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
