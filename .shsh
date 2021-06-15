@@ -9,7 +9,7 @@ cat > index.md << ZCZCNNNN
 [OS212 Web](https://ui-fasilkom-os.github.io/UF-os212/) ---
 [GitHub](https://github.com/UI-FASILKOM-OS/UF-os212/)
 
-# $OS
+<hr>
 
 ZCZCNNNN
 
