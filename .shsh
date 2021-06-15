@@ -1,0 +1,20 @@
+#!/bin/bash
+
+OS="os212"
+
+cat > index.md << ZCZCNNNN
+---
+---
+
+# $OS
+
+ZCZCNNNN
+
+for II in * ; do 
+    [ -d $II ] && echo "* [$II](/$II/)" >> index.md
+done
+
+echo "" >> index.md
+
+exit
+

@@ -1,8 +1,9 @@
 ---
-layout: "layout"
 ---
 
-Hallo Hallo Bandung!
+# os212
 
-Qapla, Jolan Tru!
+This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+
+* [cbkadal](/cbkadal/)
 
