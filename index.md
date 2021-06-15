@@ -1,9 +1,12 @@
 ---
 ---
 
+[OS212 Web](https://ui-fasilkom-os.github.io/UF-os212/) ---
+[GitHub](https://github.com/UI-FASILKOM-OS/UF-os212/)
+
 # os212
 
-This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+* [cbkadal]({{ site.baseurl }}/cbkadal/)
+* [ZZZOS212]({{ site.baseurl }}/ZZZOS212/)
 
-* [cbkadal](/cbkadal/)
-
+&copy; {{ site.copyright }} --- Revision: {{ site.version }}.

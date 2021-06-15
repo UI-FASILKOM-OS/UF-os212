@@ -6,15 +6,19 @@ cat > index.md << ZCZCNNNN
 ---
 ---
 
+[OS212 Web](https://ui-fasilkom-os.github.io/UF-os212/) ---
+[GitHub](https://github.com/UI-FASILKOM-OS/UF-os212/)
+
 # $OS
 
 ZCZCNNNN
 
-for II in * ; do 
-    [ -d $II ] && echo "* [$II](/$II/)" >> index.md
+for II in [A-Za-z]* ; do 
+    [ -d $II/         ] && echo "* [$II]({{ site.baseurl }}/$II/)" >> index.md
 done
 
-echo "" >> index.md
+echo ""     >> index.md
+echo "&copy; {{ site.copyright }} --- Revision: {{ site.version }}." >> index.md
 
 exit
 
