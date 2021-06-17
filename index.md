@@ -8,5 +8,6 @@
 
 * [cbkadal]({{ site.baseurl }}/cbkadal/)
 * [ZZZOS212]({{ site.baseurl }}/ZZZOS212/)
+* [ZZZTEST01]({{ site.baseurl }}/ZZZTEST01/)
 
 &copy; {{ site.copyright }} --- Revision: {{ site.version }}.
